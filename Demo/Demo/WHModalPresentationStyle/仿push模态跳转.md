@@ -1,10 +1,3 @@
-# WHModalPresentationStyleDemo
-iOS 仿push模态跳转
-
-
-
-
-
 ## iOS仿push模态跳转
 
 
